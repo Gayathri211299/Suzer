@@ -6,4 +6,13 @@ public static void main(String[] args) {
 	
 	System.out.println("Tak something");
 }
+	private void Boque() {
+		System.out.println("I give the gift");
+
+	}
+
+
+
+
+
 }
